@@ -92,7 +92,7 @@ const getChaseVerdict = (target, scored, ballsLeft) => {
 };
 
 
-// Function Calls
+// Verify Output
 
 console.log(describeValue("hello"));
 console.log(getDayType("Friday"));
